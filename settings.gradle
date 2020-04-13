@@ -1,0 +1,2 @@
+rootProject.name='FunFactsTrial'
+include ':app'
